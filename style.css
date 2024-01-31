@@ -64,7 +64,7 @@ section {
   position: fixed;
   z-index: 999;
   box-shadow: 1px 9px 21px 3px rgba(0, 0, 0, 0.25);
-  background-color: rgba(58, 212, 73, 0.925);
+  background-color: rgba(50, 187, 64, 0.925);
 }
 
 .nav__logo {
@@ -107,6 +107,7 @@ section {
 }
 
 .landing__img {
+  background-image: url(Assets/img/pexels-singkham-1108572--.jpg);
   margin-top: 5rem;
   height: 90vh;
   object-fit: cover;
@@ -125,7 +126,7 @@ section {
     rgba(0, 0, 0, 1) 100%,
     rgba(255, 255, 255, 0) 0%
   );
-  opacity: 0.5;
+  opacity: 0.4;
 }
 
 .landing__content {
